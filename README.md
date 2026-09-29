@@ -54,3 +54,4 @@ Tools that process images locally in the browser without uploading to a server.
 - [Squoosh](https://squoosh.app) – Client-side compression powered by WebAssembly.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) – Local SVG optimization in the browser.
 - [ImageToolbox](https://imagestoolbox.com/) – Browser-based image compression and conversion.
+- [File Converter](https://fileontap.com/) – Browser-local HEIC/WebP/PNG/JPG compression and conversion, plus image↔PDF; files never leave your device.
