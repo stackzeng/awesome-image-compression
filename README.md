@@ -51,6 +51,7 @@ Tools focused on specific image formats or modern web formats.
 
 Tools that process images locally in the browser without uploading to a server.
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) – Free client-side image compressor/converter (HEIC, WebP, AVIF, target-size). WASM; files never leave your device.
 - [Squoosh](https://squoosh.app) – Client-side compression powered by WebAssembly.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) – Local SVG optimization in the browser.
 - [ImageToolbox](https://imagestoolbox.com/) – Browser-based image compression and conversion.
