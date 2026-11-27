@@ -23,6 +23,7 @@ Tools designed to compress images to a specific target size, useful for strict u
 - [Compress 50 KB](https://compress50kb.com/) – Compress images to exactly 50 KB, ideal for strict size limits.
 - [Reduce Images](https://www.reduceimages.com/) – Compress images by setting a target file size.
 - [Online Image Compressor](https://online-image-compressor.com/) – Compress images to a desired size in KB.
+- [TinyMast](https://tinymast.com/image-compress/) – Compress up to 100 JPG, PNG, WebP or GIF files per batch to a per-file KB target, with ZIP download.
 
 ---
 
